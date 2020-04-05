@@ -6,5 +6,5 @@ Created on Thu Apr  2 21:05:21 2020
 """
 x=1
 print(x)
-y="python"
+y="python1"
 print(y)
